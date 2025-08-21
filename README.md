@@ -14,11 +14,12 @@
 Оба бота реализованы на Flask, отличаются только интерфейсом и размещением.
 
 Используемые инструменты
-- Google Cloud - получение API для автоматической работы с таблицей
-- BotFather - создание TG бота
+- Google Cloud - получение API для автоматической работы с таблицей https://cloud.google.com/iam/docs/service-accounts-create
+- BotFather - сервис Telegram по созданию ботов https://telegram.me/BotFather
+- https://it-stories.ru/get-chat-id-telegram/ — сервис для быстрого получения chat-id.
 - Платформа Open AI - получение API ключа для консультирования клиентов
-- Tilda - создание сайта
-- Cursor - написание и отладка кода
-- ngrok - для локального развертывания
-- Xorek - для развертывания на сервере
-- 
+- Tilda -  сервис-конструктор сайтов https://tilda.cc/ 
+- Cursor - ИИ-редактор кода
+- ngrok - ngrok, API для обратного прокси-сервера https://ngrok.com/ 
+- Xorek.cloud - провайдер виртуальных серверов https://vm.xorek.cloud/auth/ 
+  
